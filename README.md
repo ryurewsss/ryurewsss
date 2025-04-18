@@ -48,7 +48,7 @@
     style="display: inline-block; vertical-align: top; height: 200px; margin-right: 10px;" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ryurewsss&show_icons=true&locale=en&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api?username=ryurewsss&show_icons=true&locale=en" 
     alt="GitHub Stats" 
     style="display: inline-block; vertical-align: top; height: 200px;" 
   />
