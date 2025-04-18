@@ -1,10 +1,6 @@
 <h1 align="center">Hi everyone 🦈, I'm RYU</h1>
 <h3 align="center">From user interfaces to server logic, I design and develop the full stack with creativity and precision.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryurewsss&label=Profile%20views&color=0e75b6&style=flat" alt="ryurewsss" />
-</p>
-
 ---
 
 ### 📫 Contact Me
