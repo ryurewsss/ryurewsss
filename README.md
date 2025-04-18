@@ -43,6 +43,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryurewsss&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Langs" style="display: inline-block; vertical-align: top;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ryurewsss&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryurewsss&show_icons=true&locale=en" alt="GitHub Stats" style="display: inline-block; vertical-align: top;" />
 </p>
 
