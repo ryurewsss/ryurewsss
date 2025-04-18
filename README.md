@@ -10,9 +10,9 @@
 ### 📫 Contact Me
 
 - Email: **rewsirapop@gmail.com**
-- LinkedIn: **linkedin.com/in/rewsirapop**
+- LinkedIn: **https://linkedin.com/in/rewsirapop**
 - GitHub: **https://github.com/ryurewsss**
-- Facebook: **facebook.com/ryu.sirapop**
+- Facebook: **https://facebook.com/ryu.sirapop**
 
 ---
 
@@ -40,10 +40,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryurewsss&show_icons=true&locale=en&theme=radical" alt="ryurewsss stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryurewsss&show_icons=true&locale=en&layout=compact&theme=radical" alt="ryurewsss top langs" />
