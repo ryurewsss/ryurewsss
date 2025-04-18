@@ -44,3 +44,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryurewsss&show_icons=true&locale=en&layout=compact" alt="ryurewsss top langs" />
 </p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryurewsss&show_icons=true&locale=en&layout=compact" alt="ryurewsss" />
+</p>
+
